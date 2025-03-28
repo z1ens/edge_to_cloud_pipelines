@@ -1,0 +1,5 @@
+sensorassessment/SensorParser.class
+sensorassessment/SensorData.class
+sensorassessment/EndToEndLatencyMapper.class
+sensorassessment/SensorAssessmentJob.class
+sensorassessment/OperatorLatencyMapper.class
